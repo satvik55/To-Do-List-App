@@ -21,12 +21,31 @@ A simple, interactive, and responsive web-based to-do list application built wit
 
 1.  **Clone the Repository (Optional, if you're building from scratch simply skip this and proceed to step 2):**
     ```bash
-    git clone <your-repository-url>
-    cd todo-list-app
+    git clone [https://github.com/satvik55/To-Do-List-App.git](https://github.com/satvik55/To-Do-List-App.git)
+    cd To-Do-List-App
     ```
 2.  **Navigate to the Project Directory:**
-    If you've created the files manually, simply go into your `todo-list-app` folder.
+    If you've created the files manually, simply go into your `To-Do-List-App` folder.
 3.  **Open `index.html`:**
     Simply open the `index.html` file in your web browser. You can do this by double-clicking the file or by right-clicking and choosing "Open with" your preferred browser.
 
 ## Project Structure
+
+To-Do-List-App/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+## Future Enhancements (Optional)
+
+* Task Prioritization (High, Medium, Low)
+* Due Dates for tasks
+* Task Categories
+* Filtering tasks (e.g., show all, show completed, show active)
+* Drag and drop reordering of tasks
+
+## Contact
+
+* **GitHub:** [satvik55](https://github.com/satvik55)
